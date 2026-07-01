@@ -1,0 +1,9 @@
+git add .
+git commit -m"Few Changes"
+git push origin main
+git stash
+
+
+ 
+git pull origin main
+git stash pop
